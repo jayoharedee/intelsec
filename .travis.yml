@@ -9,7 +9,6 @@ script:
   - yarn test
 before_deploy:
   - yarn global add travis-ci-cloudfront-invalidation
-  - yarn run build
 deploy:
   provider: s3
   access_key_id: $AWS_ACCESS_KEY_ID
