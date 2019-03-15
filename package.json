@@ -1,0 +1,19 @@
+{
+  "name": "intelsec",
+  "version": "1.0.0",
+  "description": "A site for a Southern Ontario company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayoharedee/intelsec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayoharedee/intelsec/issues"
+  },
+  "homepage": "https://github.com/jayoharedee/intelsec#readme"
+}
